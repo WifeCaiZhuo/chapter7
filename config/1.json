@@ -1,7 +1,10 @@
-{
-    "id": 2,
-    "mainpath": "c:\\Windows\\System32\\Helpp\\",
-    "name1": "QQ_Safety_Components.exe",
-    "name2": "Windows_Safety_Components.exe",
-    "module":"dirlister"
-}
+[
+    {
+        "id": 2,
+        "mainpath": "c:\\Windows\\System32\\Helpp\\",
+        "name1": "QQ_Safety_Components.exe",
+        "name2": "Windows_Safety_Components.exe",
+        "module":"dirlister"
+    }
+    
+]
